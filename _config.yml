@@ -1,1 +1,25 @@
-title: Haseeb's homepage
+title: Haseeb Ahmed
+url: "haseeb1399.github.io"
+
+markdown: kramdown
+
+tracking_id: #
+
+footer: True
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/"
+ - name: "Resume"
+   link: "Resume.pdf"
+ - name: "Contact"
+   link: "contact"
+
+
+
+
+# Color Theme: https://colorhunt.co/palette/222831393e46ffd369eeeeee
