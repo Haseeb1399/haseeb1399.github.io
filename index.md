@@ -20,7 +20,7 @@ At LUMS, I have primarily worked on <strong>Web Affordability</strong>. I initia
 
 ## Publications
 
-1. [SIGCOMM ‘23] A Framework for Improving Web Affordability and Inclusiveness (Rumaisa Habib*, Sarah Tanveer*, Aimen Inam, <strong>Haseeb Ahmed</strong>, Ayesha Ali, Zartash Afzal Uzmi, Zafar Ayyub Qazi, Ihsan Ayyub Qazi) [*Joint first authors]
+1. <span style='color:#FFD369;'>[SIGCOMM ‘23]</span> A Framework for Improving Web Affordability and Inclusiveness (Rumaisa Habib*, Sarah Tanveer*, Aimen Inam, <strong>Haseeb Ahmed</strong>, Ayesha Ali, Zartash Afzal Uzmi, Zafar Ayyub Qazi, Ihsan Ayyub Qazi) [*Joint first authors]
 
 
 ## Professional Experience
@@ -68,8 +68,8 @@ August 2019 - May 2023| Bachelors of Science (BS) Computer Science | Lahore Univ
 #### Credits: 
 <ul>
 <small>
-<li><a src='https://github.com/ankitsultana/researcher/'>Ankit</a> for the theme.<br></li>
-<li><a src='https://tejasvi.dev/'>Tejasvi</a> for the theme.<br></li>
-<li><a src='https://www.flaticon.com/'>Flaticon</a> for the theme.<br></li>
+<li><a href='https://github.com/ankitsultana/researcher/'>Ankit</a> for the theme.<br></li>
+<li><a href='https://tejasvi.dev/'>Tejasvi</a> for the theme.<br></li>
+<li><a href='https://www.flaticon.com/'>Flaticon</a> for the theme.<br></li>
 </small>
 </ul>

@@ -1,6 +1,7 @@
 @import "vars";
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500');
 @import url('https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i');
+@import url('https://fonts.googleapis.com/css?family=Roboto Mono:300,300i,400,400i,700,700i');
 
 /*
  * Basic
@@ -15,7 +16,7 @@ html {
 }
 body {
     margin: 0;
-    font-family: Lato;
+    font-family: Roboto Mono;
     height: 100%;
 }
 h1 {

@@ -6,6 +6,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: True
+favicon: True
+favicon_location: favicon.ico
 
 sass:
     style: compressed
