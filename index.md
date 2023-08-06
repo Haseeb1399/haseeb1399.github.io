@@ -8,7 +8,7 @@ title: Haseeb
 ## About Me
 
 
-Hi! I'm Haseeb, a student, computer scientist and researcher. I have completed my undergradute in Computer Science from the **Lahore University of Management Sciences** [(LUMS)](https://lums.edu.pk/programmes/bs-computer-science) where I was advised by [Dr. Zafar Ayyub Qazi](https://web.lums.edu.pk/~zafar/) and [Dr. Ihsan Ayyub Qazi](https://www.ihsanqazi.com/). This <strong>Fall</strong> (2023), I will be moving to the <strong>University of Waterloo</strong> to begin my Masters of Mathematics (MMath) in Computer Science! 
+Hi! I'm Haseeb, a student, computer scientist and researcher. I have completed my undergradute in Computer Science from the **Lahore University of Management Sciences** [(LUMS)](https://lums.edu.pk/programmes/bs-computer-science) where I was advised by [Dr. Zafar Ayyub Qazi](https://web.lums.edu.pk/~zafar/) and [Dr. Ihsan Ayyub Qazi](https://www.ihsanqazi.com/). This <strong>Fall</strong> (2023), I will be moving to the [University of Waterloo](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/programs/computer-science-mmath-waterloo) to begin my Masters of Mathematics (MMath) in Computer Science! 
 
 Besides studying and academic research, I have also worked as a backend software engineer at [Tajir](https://www.tajir.app/sellers), Pakistans first Y-Combinator backed startup! 
 
