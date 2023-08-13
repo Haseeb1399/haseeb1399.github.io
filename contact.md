@@ -6,7 +6,7 @@ is_contact: true
 ## Get in touch
 To reach out to me, please email to the following address: 
 
-* <strong>Email</strong>: haseeb(dot)ahmed@waterloo.ca
+* <strong>Email</strong>: haseeb(dot)ahmed@uwaterloo.ca
 
 <div id='contact_container'>
     
