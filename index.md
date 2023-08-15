@@ -69,7 +69,7 @@ August 2019 - May 2023| Bachelors of Science (BS) Computer Science | Lahore Univ
 <ul>
 <small>
 <li><a href='https://github.com/ankitsultana/researcher/'>Ankit</a> for the theme.<br></li>
-<li><a href='https://tejasvi.dev/'>Tejasvi</a> for the theme.<br></li>
-<li><a href='https://www.flaticon.com/'>Flaticon</a> for the theme.<br></li>
+<li><a href='https://tejasvi.dev/'>Tejasvi</a> for the layout.<br></li>
+<li><a href='https://www.flaticon.com/'>Flaticon</a> for the icons.<br></li>
 </small>
 </ul>
