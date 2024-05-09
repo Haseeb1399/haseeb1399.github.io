@@ -16,7 +16,7 @@ Personally, I'm an avid gamer (The civilization series is my favourite) and love
 
 ## Research Interest
 
-At LUMS, I have primarily worked on <strong>Web Affordability</strong>. I initiated worked on the affordability of advertisement videos on YouTube in developed and developing countries. I tried to answer the question: <strong> If I buy 2GB of mobile data, how much of that is used (wasted) towards ad videos? </strong> Besides this, I have also worked on developing techniques to capture page size reductions on various mobile apps such as Opera and Brave. This helped us with analysis in our recently published work (SIGCOMM 2023).
+At LUMS, I have primarily worked on <strong>Web Affordability</strong>. I initially worked on the affordability of advertisement videos on YouTube in developed and developing countries. I tried to answer the question: <strong> If I buy 2GB of mobile data, how much of that is used (wasted) towards ad videos? </strong> Besides this, I have also worked on developing techniques to capture page size reductions on various mobile apps such as Opera and Brave. This helped us with analysis in our recently published work (SIGCOMM 2023).
 
 ## Publications
 
